@@ -1,0 +1,6 @@
+server:
+  port: 8761
+
+logging:
+  level:
+    com.netflix.eureka.registry.AbstractInstanceRegistry: WARN
